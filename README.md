@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+#TOP SERIES NG POGI
+1. COWBOY BEBOP
+2. GINTAMA
+3. SAMURAI CHAMPLOO
